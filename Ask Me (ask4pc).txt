@@ -1,0 +1,120 @@
+Best viewed in font "consolas"
+ ---------------------------------------------------------------
+Windows 10 Pro 20H2 v.2009 19042.662 (2020 Dec Updates) [x64][EN-US] Preactivated
+        ===============================================
+  -----{      Provided by ask4pc.net (Team Ask4pc)     }------   
+        ===============================================
+       _ +-------------------------------------------+ _
+      /o)|             All PC solutions              |(o\
+     / / |         http://www.ask4pc.net             | \ \
+    ( (_ |  _  http://www.facebook.com/ask4pc     _  | _) )
+   ((\ \)+-/o)-----------------------------------(o\-+(/ /))
+   (\\\ \_/ /                                     \ \_/ ///)
+    \      /                                       \      /
+     \____/                                         \____/
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+=================================================
+		[[  To make Bootable USB drive.  ]]
+		===================================
+		
+1) Run "rufus-3.9 (Make Bootable).exe" .
+
+2) In Device section, choose your USB drive.
+
+3) Click [SELECT] and choose "Windows10Pro.2009.19042.662.x64.(ask4pc).iso" file.
+
+4) Choose [GPT] or [MBR] Partition scheme according to your target hard disk format.
+	(Better to choose GPT.)
+
+5) Click [START] and [OK]
+	(It will format your USB drive.)
+
+6) Wait for it to complete.
+
+
+=================================================
+		[[  Windwos 10 Activator Included  ]]
+		 ===================================
+		
+Although it is preactivated.
+still
+There is one more Windwos 10 activator included with this file.
+It is recommended to store it somewhere.
+
+If you update your windows 10. Then it's possible that, it needs this activator again.
+In that case :
+
+1. Simply turn off your antivirus. 
+2. Run "W10DigitalActivation.(ask4pc).exe" 
+   (Run as administrator)
+3. Then click [activate windows 10]
+
+It will again activate your windows 10.
+
+=================================================
+		[[  Windwos 10 Auto Updates Disabler  ]]
+		  ===================================
+		 
+If you want to stop Windows 10 Auto Updates (they are very annoying.)
+use "AutoUpdateDisabler", which is provided on desktop after installing windows.
+
+1. Start AutoUpdateDisabler.
+2. Scroll down to "Windows Updates" section
+3. Turn switch to green for all options.
+4. Close app and restart windows.	 
+		 
+============================================
+-------ENJOY-------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+------------------TeaM--Ask4pC-----------------
+  _______                                
+ |__   __|                               
+    | | ___  __ _ _ __ ___               
+    | |/ _ \/ _` | '_ ` _ \ 
+    | |  __/ (_| | | | | | |             
+    |_|\___|\__,_|_| |_| |_|
+               _    _  _   _____   _____ 
+     /\       | |  | || | |  __ \ / ____|
+    /  \   ___| | _| || |_| |__) | |     
+   / /\ \ / __| |/ /__   _|  ___/| |  
+  / ____ \\__ \   <   | | | |    | |____ 
+ /_/    \_\___/_|\_\  |_| |_|     \_____|
+===============================================================
+-------ENJOY-------
+
+Any Problem , Question , Suggestion , Request :
+
+Visit us at https://www.ask4pc.net
+Facebook : https://www.facebook.com/ask4pc
+Telegram : https://t.me/ask4pc
+------------------------------------------------------------
+************************************************************
+[ Donations ]
+Paypal			: https://paypal.me/az5432
+BTC			: 1Draw6ak9sptKKzHFBCvoUA5UENLsMQ5K9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
